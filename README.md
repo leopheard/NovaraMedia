@@ -1,6 +1,6 @@
 <a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://novaramedia.com">Novara Media</a> podcast.<br>
 
-<img src="https://podcastaddict.com/cache/artwork/thumb/3031122"><br>
+<img src="https://podfollow.s3.eu-west-1.amazonaws.com/thumb/3cd49f283add8bbfca8dbf3de2bd985eeef764c8-300.jpg"><br>
 
 A media for a different politics.
 
